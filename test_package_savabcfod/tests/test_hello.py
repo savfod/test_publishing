@@ -1,4 +1,4 @@
-from test_package_savabcfod.hello import hw
+from test_package_savabcfod import hw
 
 
 def test_hw() -> None:
